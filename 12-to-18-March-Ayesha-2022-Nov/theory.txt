@@ -1,0 +1,12 @@
+12 March
+Q1)What is react
+Q2)What is prop
+Q3)What is state
+Q4)Diffrent types of hooks
+Q5)Diffrent between props and state
+//13-03-2022
+What is the difference between synchronous and asynchronous requests?
+What are the technologies used by AJAX?
+What is the purpose of XMLHttpRequest?
+What are the properties of XMLHttpRequest?
+What are the important methods of XMLHttpRequest?
